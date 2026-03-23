@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class User
+    {
+        private readonly string _name;
+        private readonly string _surname;
+        private string _username;
+        private string _email;
+
+        public User(string name, string surname, string username, string email)
+        {
+            _name = name;
+            _surname = surname;
+            _username = username;
+            _email = email;
+        }
+
+        public string Name => $"{_name} {_surname}";
+        public string Email => _email;
+
+        public void ChangeEmail(string newEmail)
+        {
+            _email = newEmail;
+            Console.WriteLine($"Email updated to: {_email}");
+        }
+
+        public void DisplaySummary()
+        {
+            Console.WriteLine($"{Name} | {_username} | {_email}");
+        }
+    }
+}

@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|c:\\users\\trinityc\\source\\repos\\lesson6\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|c:\\users\\trinityc\\source\\repos\\lesson6\\consoleapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|c:\\users\\trinityc\\source\\repos\\lesson6\\consoleapp1\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|solutionrelative:developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|c:\\users\\trinityc\\source\\repos\\lesson6\\consoleapp1\\user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|solutionrelative:user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|c:\\users\\trinityc\\source\\repos\\lesson6\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|c:\\users\\trinityc\\source\\repos\\lesson6\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|c:\\users\\trinityc\\source\\repos\\lesson6\\consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8857F5CF-329C-4C4A-A978-52C1865655C9}|ConsoleApp1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:39:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Developer.cs",
+              "RelativeDocumentMoniker": "Developer.cs",
+              "ToolTip": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Developer.cs",
+              "RelativeToolTip": "Developer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:38:29.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:36:34.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User2.cs",
+              "DocumentMoniker": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\User2.cs",
+              "RelativeDocumentMoniker": "User2.cs",
+              "ToolTip": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\User2.cs",
+              "RelativeToolTip": "User2.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:34:52.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:27:37.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:23:18.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +130,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\TrinityC\\source\\repos\\Lesson6\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T08:15:00.722Z",
               "EditorCaption": ""
